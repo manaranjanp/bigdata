@@ -1,2 +1,3 @@
-# bigdata
-Notebooks for Big Data Class
+# Big Data and Data Engineering
+
+Notebooks for Big Data and Data Engineering Class
